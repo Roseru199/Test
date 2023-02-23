@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 xcv
 ghfghdfdfdfd
+=======
+jjjjjj
+>>>>>>> Common
